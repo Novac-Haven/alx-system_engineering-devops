@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -la first-location second-location
+ls -la . .. /bin/boot
+
