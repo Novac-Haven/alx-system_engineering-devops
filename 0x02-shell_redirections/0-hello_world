@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "hello world /n" >> 0-hello_world.txt
